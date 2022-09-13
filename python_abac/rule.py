@@ -1,4 +1,4 @@
-class AuthorisationRule:
+class Rule:
     """
     An AuthorisationRule
     """
